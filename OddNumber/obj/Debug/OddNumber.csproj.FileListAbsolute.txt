@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumber\OddNumber\bin\Debug\OddNumber.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumber\OddNumber\bin\Debug\OddNumber.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumber\OddNumber\bin\Debug\OddNumber.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumber\OddNumber\obj\Debug\OddNumber.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNumber\OddNumber\obj\Debug\OddNumber.pdb
